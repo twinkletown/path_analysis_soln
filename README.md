@@ -1,7 +1,7 @@
 # path_analysis_hw
 I'm sitting next to a multi-ton, 6dof, Kuka robot arm. It's not doing what I want it to do.
 
-The robot takes in a list of points and do their best to go to those points in order. The thing is, I just did that and the robot didn't look right. For instance, there is a section of the path I sent to the robot that is a bunch of circles, and instead of tracing out circles, the robot just sat there unmoving... Something definitely isnt right. 
+The robot takes in a list of points and does its best to go to those points in order. The thing is, I just fed it a bunch of points and the robot didn't look right. For instance, there is a section of the path I sent to the robot that is a bunch of circles, and instead of tracing out circles, the robot just sat there unmoving... Something is definitely amiss. 
 
 ## The ask
 Here's where you come in. I want to know why the robots didn't follow my instructions. Fortunately for us, I managed to save some logs during the run:

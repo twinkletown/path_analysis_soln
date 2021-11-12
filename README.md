@@ -15,4 +15,20 @@ Your task: generate insights. The more graphs and sick visualizations, the bette
  - Due to some clock desynchrony, it appears that the time stamps in tracker.csv might be shifted from the time stamps in path.csv. Consider it pretty close, but I'm all ears if you can think of a way to handle that. 
  - The data here is very raw and potentially insufficient for grand conclusions. Do your best, and document your assumptions. 
 
-May the wind fill your sails, and godspeed.
+## Submission
+In order to submit the assignment, do the following:
+
+1. Navigate to GitHub's project import page: [https://github.com/new/import](https://github.com/new/import)
+
+2. In the box titled "Your old repository's clone URL", paste the homework repository's link: [https://github.com/Machina-Labs/path_analysis_hw](https://github.com/Machina-Labs/path_analysis_hw)
+
+3. In the box titled "Repository Name", add a name for your local homework (ex. `path_analysis_soln`)
+
+4. Set privacy level to "Public", then click "Begin Import" button at bottom of the page.
+
+5. Develop your homework solution in the cloned repository and push it to Github when you're done. Extra points for good Git hygiene.
+
+6. Send us the link to your repository.
+
+
+May your servo drives be warm, and your hydraulic fluid never leak.
